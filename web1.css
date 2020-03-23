@@ -283,3 +283,15 @@ nav.menu ul a:hover {
 .table1 tr:nth-child(even) {
     background-color: #f2f2f2;
 }
+@media screen and (max-width: 780px) {
+.wrap {
+        text-align: center;
+}
+.widget {
+        width: auto;
+        float: none;
+}
+.conteudo {
+        width: auto;
+        float: none;
+}
